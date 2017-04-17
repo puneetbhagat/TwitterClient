@@ -32,6 +32,12 @@ Here's a walkthrough of implemented user stories:
 
 ![](./TwitterClient.gif)
 
+
+## Notes
+
+- Some of the implemented features have issues that still need to be resolved
+
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
